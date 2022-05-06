@@ -1,10 +1,10 @@
 import React from 'react'
 import BottomAbout from '../BottomAbout'
 import {FaGithub} from 'react-icons/fa'
-import pharmeasy from "../images/pharmeasy.png.png"
+import bestBuy from "../images/bestBuy.png"
 import fraazo from "../images/fraazo.png"
 // import githubhero from "../images/Mini Github.png"
-import cricbuzz from "../images/Cricbuzz.png.png"
+import ApploImg from "../images/ApploImg.png"
 // import grubhero from "../images/GrubHub Hero.png"
 
 function Project() {
@@ -25,7 +25,7 @@ function Project() {
                         <img src={fraazo} alt="movies" />
                     </div>
                     <div className="title">
-                       BigBasket Clone
+                       Fraazo Clone
                     </div>
                     <div className="projinfo">
                     A web application to buy groceries online in India.<br/>
@@ -45,10 +45,10 @@ function Project() {
                  {/* project three */}
                  <div className="projs">
                     <div className="img pharm">
-                        <img src={pharmeasy}autoCapitalize alt="movies" />
+                        <img src={bestBuy}autoCapitalize alt="movies" />
                     </div>
                     <div className="title">
-                       PharmEasy Clone
+                       bestBuy Clone
                     </div>
                     <div className="projinfo">
                     A web application to buy electronic product online in India.<br/>
@@ -66,21 +66,21 @@ function Project() {
                  {/* project four */}
                  <div className="projs">
                     <div className="img">
-                        <img src={cricbuzz} alt="movies" />
+                        <img src={ApploImg} alt="movies" />
                     </div>
                     <div className="title">
-                       CricBuzz Clone
+                    Apollo-247 Clone
                     </div>
                     <div className="projinfo">
-                    A web application for getting live cricket scores and news related to cricket.<br/>
-                    Tech Stack: HTML | CSS | Javascript | DOM | Weather API
+                    Apollo 24|7 is a single online platform where you have access to a wide range of services such as online pharmacy, online doctor consultations, and diagnostic lab tests at home.<br/>
+                    Tech Stack: HTML | CSS | Javascript | DOM
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://cric-buzz.vercel.app/" target={"_blank"}>Live</a>
+                        <a href="quirky-neumann-18c833.netlify.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/Rahul130893/CricBuzz" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/SakethReddy1111/Apollo-247" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
