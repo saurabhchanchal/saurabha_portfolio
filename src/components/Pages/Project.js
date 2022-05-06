@@ -51,7 +51,7 @@ function Project() {
                        PharmEasy Clone
                     </div>
                     <div className="projinfo">
-                    A web application to buy groceries online in India.<br/>
+                    A web application to buy electronic product online in India.<br/>
                     Tech Stack: HTML | CSS | Javascript | DOM | LocalStorage | MongoDb | Express | Mongoose | NPM | Heroku |  etc.
                     </div>
                      <div className='flex'>
