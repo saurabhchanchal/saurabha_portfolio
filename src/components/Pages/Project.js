@@ -51,15 +51,15 @@ function Project() {
                        PharmEasy Clone
                     </div>
                     <div className="projinfo">
-                    Pharmeasy is an Indian healthcare app and ecommerce platform.<br/>
+                    A web application to buy groceries online in India.<br/>
                     Tech Stack: HTML | CSS | Javascript | DOM | LocalStorage | MongoDb | Express | Mongoose | NPM | Heroku |  etc.
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://pharmeasy-clone.netlify.app/" target={"_blank"}>Live</a>
+                        <a href="https://merry-kitten-8e2680.netlify.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/bharathk07/PHARMEASY-CLONE" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/paruljamwal/Backend-best-buy-repo" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
@@ -87,7 +87,7 @@ function Project() {
                 </div>
             <div className="moreprojs">
                 <div>For more You can view my github</div>
-                <div><a href="https://github.com/Rahul130893/" target={"_blank"}><FaGithub /> Github</a></div>
+                <div><a href="https://github.com/saurabhchanchal" target={"_blank"}><FaGithub /> Github</a></div>
             </div>
             <BottomAbout/>
         </div>
