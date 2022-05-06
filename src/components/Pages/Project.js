@@ -2,7 +2,7 @@ import React from 'react'
 import BottomAbout from '../BottomAbout'
 import {FaGithub} from 'react-icons/fa'
 import pharmeasy from "../images/pharmeasy.png.png"
-import bigbasekthero from "../images/bigbasket hero.jpeg"
+import fraazo from "../images/fraazo.png"
 // import githubhero from "../images/Mini Github.png"
 import cricbuzz from "../images/Cricbuzz.png.png"
 // import grubhero from "../images/GrubHub Hero.png"
@@ -22,7 +22,7 @@ function Project() {
                
                  <div className="projs">
                     <div className="img">
-                        <img src={bigbasekthero} alt="movies" />
+                        <img src={fraazo} alt="movies" />
                     </div>
                     <div className="title">
                        BigBasket Clone
@@ -34,10 +34,10 @@ function Project() {
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://bigbasket-clone.vercel.app/" target={"_blank"}>Live</a>
+                        <a href="https://fraazo-clone-project.vercel.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/Iqbal0786/Bigbasket_Clone" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/saurabhchanchal/web-15-fraazo" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
