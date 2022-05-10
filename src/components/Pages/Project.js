@@ -77,7 +77,7 @@ function Project() {
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="quirky-neumann-18c833.netlify.app/" target={"_blank"}>Live</a>
+                        <a href="https://quirky-neumann-18c833.netlify.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
                         <a href="https://github.com/SakethReddy1111/Apollo-247" target={"_blank"}>GitHub</a>
