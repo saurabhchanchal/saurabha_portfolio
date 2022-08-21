@@ -56,6 +56,7 @@ function Project() {
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
+                    
                         <a href="https://merry-kitten-8e2680.netlify.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
